@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "private": true,
+  "version": "0.1.0",
+  "devDependencies": {
+    "@babel/core": "^7.23.0",
+    "@babel/preset-env": "^7.23.0",
+    "babel-loader": "^8.2.5",
+    "@rails/webpacker": "^6.0.0-rc.6",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.15.0"
+  }
+}
